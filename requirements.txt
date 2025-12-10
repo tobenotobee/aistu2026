@@ -1,0 +1,5 @@
+requests==2.31.0
+python-dotenv==1.0.1
+langchain==0.0.208
+openai==0.27.8
+chat-tongyi==0.1.6
